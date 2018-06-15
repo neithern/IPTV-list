@@ -1,0 +1,14 @@
+.idea
+.navigation
+.settings
+.DS_Store
+bin
+gen
+out
+*.iml
+local.properties
+.gradle/
+.externalNativeBuild
+.externalCMakeBuild
+gradle/
+build/
