@@ -1,0 +1,230 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="上海联通IPTV" tvg-log="",东方卫视(高清)
+rtp://238.200.200.125:5540
+#EXTINF:-1 group-title="上海联通IPTV" tvg-log="",新闻综合HD
+rtp://238.200.200.130:5540
+#EXTINF:-1 group-title="上海联通IPTV" tvg-log="",娱乐频道HD
+rtp://238.200.200.127:5540
+#EXTINF:-1 group-title="上海联通IPTV" tvg-log="",电视剧频道HD
+rtp://238.200.200.128:5540
+#EXTINF:-1 group-title="上海联通IPTV" tvg-log="",体育频道HD
+rtp://238.200.200.131:5540
+#EXTINF:-1 group-title="上海联通IPTV" tvg-log="",第一财经HD
+rtp://238.200.200.132:5540
+#EXTINF:-1 group-title="上海联通IPTV" tvg-log="",纪实频道HD
+rtp://238.200.200.129:5540
+#EXTINF:-1 group-title="上海联通IPTV" tvg-log="",艺术人文
+rtp://238.200.200.100:5540
+#EXTINF:-1 group-title="上海联通IPTV" tvg-log="",星尚
+rtp://238.200.200.101:5540
+#EXTINF:-1 group-title="上海联通IPTV" tvg-log="",体育频道
+rtp://238.200.200.102:5540
+#EXTINF:-1 group-title="上海联通IPTV" tvg-log="",哈哈少儿
+rtp://238.200.200.103:5540
+#EXTINF:-1 group-title="上海联通IPTV" tvg-log="",外语频道
+rtp://238.200.200.104:5540
+#EXTINF:-1 group-title="上海联通IPTV" tvg-log="",炫动卡通
+rtp://238.200.200.105:5540
+#EXTINF:-1 group-title="上海联通IPTV" tvg-log="",东方电影
+rtp://238.200.200.106:5540
+#EXTINF:-1 group-title="上海联通IPTV" tvg-log="",七彩戏剧
+rtp://238.200.200.108:5540
+#EXTINF:-1 group-title="上海联通IPTV" tvg-log="",法治天地
+rtp://238.200.200.109:5540
+#EXTINF:-1 group-title="上海联通IPTV" tvg-log="",游戏风云
+rtp://238.200.200.110:5540
+#EXTINF:-1 group-title="上海联通IPTV" tvg-log="",CCTV-1(高清)
+rtp://238.200.200.133:5540
+#EXTINF:-1 group-title="上海联通IPTV" tvg-log="",CCTV-2
+rtp://238.200.200.111:5540
+#EXTINF:-1 group-title="上海联通IPTV" tvg-log="",CCTV-3
+rtp://238.200.200.112:5540
+#EXTINF:-1 group-title="上海联通IPTV" tvg-log="",CCTV-4
+rtp://238.200.200.113:5540
+#EXTINF:-1 group-title="上海联通IPTV" tvg-log="",CCTV-5
+rtp://238.200.200.114:5540
+#EXTINF:-1 group-title="上海联通IPTV" tvg-log="",CCTV-6
+rtp://238.200.200.115:5540
+#EXTINF:-1 group-title="上海联通IPTV" tvg-log="",CCTV-7
+rtp://238.200.200.116:5540
+#EXTINF:-1 group-title="上海联通IPTV" tvg-log="",CCTV-8
+rtp://238.200.200.117:5540
+#EXTINF:-1 group-title="上海联通IPTV" tvg-log="",CCTV-NEWS
+rtp://238.200.200.118:5540
+#EXTINF:-1 group-title="上海联通IPTV" tvg-log="",CCTV-10
+rtp://238.200.200.119:5540
+#EXTINF:-1 group-title="上海联通IPTV" tvg-log="",CCTV-11
+rtp://238.200.200.120:5540
+#EXTINF:-1 group-title="上海联通IPTV" tvg-log="",CCTV-12
+rtp://238.200.200.121:5540
+#EXTINF:-1 group-title="上海联通IPTV" tvg-log="",CCTV-新闻
+rtp://238.200.200.122:5540
+#EXTINF:-1 group-title="上海联通IPTV" tvg-log="",CCTV-少儿
+rtp://238.200.200.123:5540
+#EXTINF:-1 group-title="上海联通IPTV" tvg-log="",CCTV-音乐
+rtp://238.200.200.124:5540
+#EXTINF:-1 group-title="上海联通IPTV" tvg-log="",CCTV-高网
+rtp://238.200.200.187:5540
+#EXTINF:-1 group-title="上海联通IPTV" tvg-log="",劲爆体育HD
+rtp://238.200.200.126:5540
+#EXTINF:-1 group-title="上海联通IPTV" tvg-log="",浙江卫视(高清)
+rtp://238.200.200.134:5540
+#EXTINF:-1 group-title="上海联通IPTV" tvg-log="",江苏卫视(高清)
+rtp://238.200.200.135:5540
+#EXTINF:-1 group-title="上海联通IPTV" tvg-log="",湖南卫视HD
+rtp://238.200.200.136:5540
+#EXTINF:-1 group-title="上海联通IPTV" tvg-log="",北京卫视HD
+rtp://238.200.200.137:5540
+#EXTINF:-1 group-title="上海联通IPTV" tvg-log="",广东卫视HD
+rtp://238.200.200.138:5540
+#EXTINF:-1 group-title="上海联通IPTV" tvg-log="",深圳卫视HD
+rtp://238.200.200.139:5540
+#EXTINF:-1 group-title="上海联通IPTV" tvg-log="",黑龙江卫视HD
+rtp://238.200.200.140:5540
+#EXTINF:-1 group-title="上海联通IPTV" tvg-log="",山东卫视HD
+rtp://238.200.200.141:5540
+#EXTINF:-1 group-title="上海联通IPTV" tvg-log="",湖北卫视HD
+rtp://238.200.200.142:5540
+#EXTINF:-1 group-title="上海联通IPTV" tvg-log="",宁夏卫视
+rtp://238.200.200.151:5540
+#EXTINF:-1 group-title="上海联通IPTV" tvg-log="",旅游卫视
+rtp://238.200.200.152:5540
+#EXTINF:-1 group-title="上海联通IPTV" tvg-log="",广西卫视
+rtp://238.200.200.153:5540
+#EXTINF:-1 group-title="上海联通IPTV" tvg-log="",四川卫视
+rtp://238.200.200.154:5540
+#EXTINF:-1 group-title="上海联通IPTV" tvg-log="",辽宁卫视
+rtp://238.200.200.155:5540
+#EXTINF:-1 group-title="上海联通IPTV" tvg-log="",安徽卫视
+rtp://238.200.200.156:5540
+#EXTINF:-1 group-title="上海联通IPTV" tvg-log="",东南卫视
+rtp://238.200.200.157:5540
+#EXTINF:-1 group-title="上海联通IPTV" tvg-log="",天津卫视
+rtp://238.200.200.158:5540
+#EXTINF:-1 group-title="上海联通IPTV" tvg-log="",江西卫视
+rtp://238.200.200.159:5540
+#EXTINF:-1 group-title="上海联通IPTV" tvg-log="",吉林卫视
+rtp://238.200.200.160:5540
+#EXTINF:-1 group-title="上海联通IPTV" tvg-log="",山西卫视
+rtp://238.200.200.161:5540
+#EXTINF:-1 group-title="上海联通IPTV" tvg-log="",青海卫视
+rtp://238.200.200.162:5540
+#EXTINF:-1 group-title="上海联通IPTV" tvg-log="",西藏卫视
+rtp://238.200.200.163:5540
+#EXTINF:-1 group-title="上海联通IPTV" tvg-log="",陕西卫视
+rtp://238.200.200.164:5540
+#EXTINF:-1 group-title="上海联通IPTV" tvg-log="",云南卫视
+rtp://238.200.200.165:5540
+#EXTINF:-1 group-title="上海联通IPTV" tvg-log="",甘肃卫视
+rtp://238.200.200.166:5540
+#EXTINF:-1 group-title="上海联通IPTV" tvg-log="",河北卫视
+rtp://238.200.200.167:5540
+#EXTINF:-1 group-title="上海联通IPTV" tvg-log="",内蒙古卫视
+rtp://238.200.200.168:5540
+#EXTINF:-1 group-title="上海联通IPTV" tvg-log="",重庆卫视
+rtp://238.200.200.169:5540
+#EXTINF:-1 group-title="上海联通IPTV" tvg-log="",贵州卫视
+rtp://238.200.200.170:5540
+#EXTINF:-1 group-title="上海联通IPTV" tvg-log="",河南卫视
+rtp://238.200.200.171:5540
+#EXTINF:-1 group-title="上海联通IPTV" tvg-log="",新疆卫视
+rtp://238.200.200.172:5540
+#EXTINF:-1 group-title="上海联通IPTV" tvg-log="",兵团卫视
+rtp://238.200.200.173:5540
+#EXTINF:-1 group-title="上海联通IPTV" tvg-log="",金鹰卡通
+rtp://238.200.200.175:5540
+#EXTINF:-1 group-title="上海联通IPTV" tvg-log="",都市剧场
+rtp://238.200.200.177:5540
+#EXTINF:-1 group-title="上海联通IPTV" tvg-log="",欢笑剧场
+rtp://238.200.200.178:5540
+#EXTINF:-1 group-title="上海联通IPTV" tvg-log="",劲爆体育
+rtp://238.200.200.179:5540
+#EXTINF:-1 group-title="上海联通IPTV" tvg-log="",全纪实
+rtp://238.200.200.180:5540
+#EXTINF:-1 group-title="上海联通IPTV" tvg-log="",魅力音乐
+rtp://238.200.200.181:5540
+#EXTINF:-1 group-title="上海联通IPTV" tvg-log="",金色频道
+rtp://238.200.200.182:5540
+#EXTINF:-1 group-title="上海联通IPTV" tvg-log="",生活时尚
+rtp://238.200.200.183:5540
+#EXTINF:-1 group-title="上海联通IPTV" tvg-log="",动漫秀场
+rtp://238.200.200.184:5540
+#EXTINF:-1 group-title="上海联通IPTV" tvg-log="",极速汽车
+rtp://238.200.200.185:5540
+#EXTINF:-1 group-title="上海联通IPTV" tvg-log="",东方财经
+rtp://238.200.200.186:5540
+#EXTINF:-1 group-title="上海联通IPTV" tvg-log="",赛事精选-1
+rtp://238.200.200.188:5540
+#EXTINF:-1 group-title="上海联通IPTV" tvg-log="",赛事精选-2
+rtp://238.200.200.189:5540
+#EXTINF:-1 group-title="上海联通IPTV" tvg-log="",高尔夫
+rtp://238.200.200.190:5540
+#EXTINF:-1 group-title="上海联通IPTV" tvg-log="",赛事精选-3
+rtp://238.200.200.191:5540
+#EXTINF:-1 group-title="上海联通IPTV" tvg-log="",电竞天堂
+rtp://238.200.200.192:5540
+#EXTINF:-1 group-title="上海联通IPTV" tvg-log="",竞G场
+rtp://238.200.200.193:5540
+#EXTINF:-1 group-title="上海联通IPTV" tvg-log="",喜剧影院
+rtp://238.200.200.194:5540
+#EXTINF:-1 group-title="上海联通IPTV" tvg-log="",香江影院
+rtp://238.200.200.195:5540
+#EXTINF:-1 group-title="上海联通IPTV" tvg-log="",热门剧场
+rtp://238.200.200.196:5540
+#EXTINF:-1 group-title="上海联通IPTV" tvg-log="",股评汇
+rtp://238.200.200.197:5540
+#EXTINF:-1 group-title="上海联通IPTV" tvg-log="",港剧风云
+rtp://238.200.200.198:5540
+#EXTINF:-1 group-title="上海联通IPTV" tvg-log="",古装剧场
+rtp://238.200.200.199:5540
+#EXTINF:-1 group-title="上海联通IPTV" tvg-log="",热门动画
+rtp://238.200.200.200:5540
+#EXTINF:-1 group-title="上海联通IPTV" tvg-log="",经典动画
+rtp://238.200.200.201:5540
+#EXTINF:-1 group-title="上海联通IPTV" tvg-log="",热门综艺
+rtp://238.200.200.202:5540
+#EXTINF:-1 group-title="上海联通IPTV" tvg-log="",中国达人秀
+rtp://238.200.200.203:5540
+#EXTINF:-1 group-title="上海联通IPTV" tvg-log="",阿拉一家门
+rtp://238.200.200.204:5540
+#EXTINF:-1 group-title="上海联通IPTV" tvg-log="",演唱会
+rtp://238.200.200.205:5540
+#EXTINF:-1 group-title="上海联通IPTV" tvg-log="",怀旧金曲
+rtp://238.200.200.206:5540
+#EXTINF:-1 group-title="上海联通IPTV" tvg-log="",美食
+rtp://238.200.200.208:5540
+#EXTINF:-1 group-title="上海联通IPTV" tvg-log="",女人
+rtp://238.200.200.209:5540
+#EXTINF:-1 group-title="上海联通IPTV" tvg-log="",Knews24-HD
+rtp://238.200.200.150:5540
+#EXTINF:-1 group-title="上海联通IPTV" tvg-log="",直播室101
+rtp://238.200.200.143:5540
+#EXTINF:-1 group-title="上海联通IPTV" tvg-log="",直播室102
+rtp://238.200.200.144:5540
+#EXTINF:-1 group-title="上海联通IPTV" tvg-log="",直播室103
+rtp://238.200.200.145:5540
+#EXTINF:-1 group-title="上海联通IPTV" tvg-log="",直播室104
+rtp://238.200.200.146:5540
+#EXTINF:-1 group-title="上海联通IPTV" tvg-log="",直播室105
+rtp://238.200.200.147:5540
+#EXTINF:-1 group-title="上海联通IPTV" tvg-log="",直播室106
+rtp://238.200.200.148:5540
+#EXTINF:-1 group-title="上海联通IPTV" tvg-log="",直播室107
+rtp://238.200.200.149:5540
+#EXTINF:-1 group-title="上海联通IPTV" tvg-log="",直播室208
+rtp://238.200.200.210:5540
+#EXTINF:-1 group-title="上海联通IPTV" tvg-log="",直播室209
+rtp://238.200.200.211:5540
+#EXTINF:-1 group-title="上海联通IPTV" tvg-log="",直播室210
+rtp://238.200.200.212:5540
+#EXTINF:-1 group-title="上海联通IPTV" tvg-log="",直播室211
+rtp://238.200.200.213:5540
+#EXTINF:-1 group-title="上海联通IPTV" tvg-log="",直播室108
+rtp://238.200.200.214:5540
+#EXTINF:-1 group-title="上海联通IPTV" tvg-log="",直播室109
+rtp://238.200.200.215:5540
+#EXTINF:-1 group-title="上海联通IPTV" tvg-log="",直播室110
+rtp://238.200.200.216:5540
+#EXTINF:-1 group-title="上海联通IPTV" tvg-log="",直播室111
+rtp://238.200.200.217:5540
