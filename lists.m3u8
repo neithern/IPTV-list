@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:1, 上海联通
+https://raw.githubusercontent.com/neithern/IPTV-list/master/shanghai/unicom.m3u8
+#EXTINF:2, 上海电信
+https://raw.githubusercontent.com/neithern/IPTV-list/master/shanghai/telecom.m3u8
+#EXTINF:3, 苏州移动
+https://raw.githubusercontent.com/neithern/IPTV-list/master/suzhou/mobile.m3u8
+#EXTINF:4, 其它
+https://raw.githubusercontent.com/neithern/IPTV-list/master/other/iplaytv.m3u8
