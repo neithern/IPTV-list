@@ -2,19 +2,17 @@
   {
     "title": "CCTV-1 HD",
     "logo": "https://raw.githubusercontent.com/neithern/IPTV-list/master/assets/cctv-1.png",
-    "url": "rtsp://124.75.34.37/PLTV/88888888/224/3221226102/00000100000000060000000000009784_0.smil",
-    "url2": "rtsp://20.254.1.9/PLTV/88888888/224/3221225703/10000100000000060000000000035351_0.smil"
   },
   {
     "title": "CCTV-5 HD",
     "logo": "https://raw.githubusercontent.com/neithern/IPTV-list/master/assets/cctv-5.png",
-    "url": "rtsp://124.75.34.37/PLTV/88888888/224/3221226292/10000100000000060000000001678743_0.smil",
-    "url2": "rtsp://20.254.1.9/PLTV/88888888/224/3221225705/10000100000000060000000000072708_0.smil"
   },
   {
-    "title": "纪实 HD",
+    "title": "纪实频道HD",
     "logo": "https://raw.githubusercontent.com/neithern/IPTV-list/master/assets/document.png",
-    "url": "rtsp://124.75.34.37/PLTV/88888888/224/3221226230/10000100000000060000000000646848_0.smil",
-    "url2": "rtsp://20.254.1.9/PLTV/88888888/224/3221225691/10000100000000060000000000012475_0.smil"
+  },
+  {
+    "title": "全纪实HD",
+    "logo": "http://img.dingdangpai.com/upload/images/activities/2016/12/09/124355841a0ykotd4b.jpg",
   }
 ]
