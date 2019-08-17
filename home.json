@@ -16,8 +16,16 @@
     "logo": "http://img.dingdangpai.com/upload/images/activities/2016/12/09/124355841a0ykotd4b.jpg"
   },
   {
+    "title": "北京卫视HD",
+    "logo": "https://raw.githubusercontent.com/neithern/IPTV-list/master/assets/beijing.png"
+  },
+  {
     "title": "东方卫视HD",
     "logo": "https://raw.githubusercontent.com/neithern/IPTV-list/master/assets/dongfang.png"
+  },
+  {
+    "title": "湖南卫视HD",
+    "logo": "https://raw.githubusercontent.com/neithern/IPTV-list/master/assets/hunan.jpg"
   },
   {
     "title": "浙江卫视HD",
