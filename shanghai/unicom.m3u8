@@ -229,13 +229,6 @@ rtsp://20.254.1.9/PLTV/88888888/224/3221225707/10000100000000060000000000072722_
 # #EXTINF:-1,直播室211
 # rtsp://20.254.1.9/PLTV/88888888/224/3221225711/10000100000000060000000000072731_0.smil
 
-#EXTINF:-1,CCTV-5+ HD
-http://117.169.124.46:6410/ysten-businessmobile/live/hdcctv05plus/1.m3u8
-#EXTINF:-1,CCTV-6 HD
-http://39.134.66.66/PLTV/88888888/224/3221225814/index.m3u8
-#EXTINF:-1,CCTV 4K
-http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226998/index.m3u8
-
 # #EXTINF:-1, group-title="央视" tvg-name="CCTV3", CCTV-3 HD
 # http://ivi.bupt.edu.cn/hls/cctv3hd.m3u8
 # #EXTINF:-1, group-title="央视" tvg-name="CCTV6", CCTV-6 HD
