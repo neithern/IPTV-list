@@ -1,15 +1,27 @@
 [
   {
     "title": "CCTV-1 HD",
-    "logo": "https://raw.githubusercontent.com/neithern/IPTV-list/master/assets/cctv-1.png"
+    "logo": "https://raw.githubusercontent.com/neithern/IPTV-list/master/LOGO/CCTV1.jpg"
   },
   {
-    "title": "CCTV-5 HD",
-    "logo": "https://raw.githubusercontent.com/neithern/IPTV-list/master/assets/cctv-5.png"
+    "title": "CCTV-5",
+    "logo": "https://raw.githubusercontent.com/neithern/IPTV-list/master/LOGO/CCTV5.jpg"
+  },
+  {
+    "title": "CCTV-5+",
+    "logo": "https://raw.githubusercontent.com/neithern/IPTV-list/master/LOGO/CCTV5+.jpg"
+  },
+  {
+    "title": "CCTV-6",
+    "logo": "https://raw.githubusercontent.com/neithern/IPTV-list/master/LOGO/CCTV6.jpg"
+  },
+  {
+    "title": "CCTV-13",
+    "logo": "https://raw.githubusercontent.com/neithern/IPTV-list/master/LOGO/CCTV13.jpg"
   },
   {
     "title": "纪实频道HD",
-    "logo": "https://raw.githubusercontent.com/neithern/IPTV-list/master/assets/document.png"
+    "logo": "https://raw.githubusercontent.com/neithern/IPTV-list/master/LOGO/document.png"
   },
   {
     "title": "全纪实HD",
@@ -17,18 +29,18 @@
   },
   {
     "title": "北京卫视HD",
-    "logo": "https://raw.githubusercontent.com/neithern/IPTV-list/master/assets/beijing.png"
+    "logo": "https://raw.githubusercontent.com/neithern/IPTV-list/master/LOGO/beijing.png"
   },
   {
     "title": "东方卫视HD",
-    "logo": "https://raw.githubusercontent.com/neithern/IPTV-list/master/assets/dongfang.png"
+    "logo": "https://raw.githubusercontent.com/neithern/IPTV-list/master/LOGO/dongfang.png"
   },
   {
     "title": "湖南卫视HD",
-    "logo": "https://raw.githubusercontent.com/neithern/IPTV-list/master/assets/hunan.jpg"
+    "logo": "https://raw.githubusercontent.com/neithern/IPTV-list/master/LOGO/hunan.jpg"
   },
   {
     "title": "浙江卫视HD",
-    "logo": "https://raw.githubusercontent.com/neithern/IPTV-list/master/assets/zhejiang.png"
+    "logo": "https://raw.githubusercontent.com/neithern/IPTV-list/master/LOGO/zhejiang.png"
   }
 ]
